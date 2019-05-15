@@ -12,8 +12,8 @@ void create_config()
     "mode": 1,
     "resolution": {
         "letterboxing": false,
-        "width": 1920,
-        "height": 1080,
+        "width": 1360,
+        "height": 768,
         "horizontalPosition": 0,
         "verticalPosition": 0
     },
@@ -25,10 +25,10 @@ void create_config()
         "scalar": [1.0, 1.0]
     },
     "osu": {
-        "mouse": true,
-        "key1": [90],
-        "key2": [88],
-        "smoke": [67],
+        "mouse": false,
+        "key1": [68],
+        "key2": [70],
+        "smoke": [83],
         "wave": [86]
     },
     "taiko": {
